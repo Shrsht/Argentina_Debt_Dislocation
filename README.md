@@ -1,11 +1,11 @@
-# Argentina_Debt_Sustainability
+# Exploring Future Dislocation Scenarios of Argentine Sovereign Debt:
 
-This project is an attempt at analysing and making a Debt-Sustainability Prediction Analysis on Argentina by combining its political and climactic factors to predict the ability of Argentina to meet its goals set by the IMF. 
+This project is an attempt at analysing different scenarios that might lead to Dislocation in Argentina's Sovereign Debt. This analysis takes into account political and climactic factors along with recent updates on Argentina's ongoing IMF program.
 
-## Factors Affecting Debt Sustainability: 
-- Drought and Climate Change
-- Political Changes and related Uncertainity
-- Structural Issues and Spending Problems
+## Dislocation Scenarios: 
+- Cyclical Droughts and Persistant Climate Change
+- Election Analysis and related Uncertainity
+- Structural Issues and Fiscal Targets
 
 # Drought and Climate Change Predictions:
 
