@@ -29,5 +29,48 @@ This is *NOT* the first time Argentina is seeing drought conditions of this seve
 [https://www.bloomberg.com/news/articles/2023-03-08/wheat-swings-as-traders-weigh-ukraine-talks-and-supply-outlook#xj4y7vzkg]
 
 ### Effect on Exports, Exchange Rate and Real GDP due to frequency drought conditions:
+
+Based on the projections presented by the Argentine Minister of Economy Martin Guzman and the CBRA President Miguel Pesce in is 'Leter of Intent' to the IMF in March 2022, we can assume that the Argentine Government has not accounted for future drought conditions in its GDP projections up till the year 2024. 
  
 <img width="768" alt="Screenshot 2023-07-05 at 2 37 09 PM" src="https://github.com/Shrsht/Argentina_Debt_Sustainability/assets/102553723/0d3751cd-08ac-4f25-90cf-1e82499daf12">
+
+Any Debt Sustainability Analyses for Argentina would need to take these into account when building a Baseline Scenario and managing the external shocks to Real GDP and Export quantities:
+
+# Election Analysis and Policy Uncertainty:
+
+Based on the numerous Opinion Polls and Political Analyses present for the 2023 Argentinian Election, we can make the following predictions : 
+
+Based on Local Regression trend line of survey results from 14 November 2021 to today we observe fairly clearly that the Juntos por el Cambio are projected to win by a small but significant margin. 
+
+<img width="1433" alt="Screenshot 2023-07-05 at 3 23 23 PM" src="https://github.com/Shrsht/Argentina_Debt_Sustainability/assets/102553723/a50d501e-d09f-4cd7-a2ac-52551b507e41">
+
+Furthermore, Opinion Polls by 'Zuban Cordoba and Associates" we see a very clear preference for Horacio Rodríguez Larreta as a presidential candidate, followed by Javier Milei
+
+<img width="1409" alt="Screenshot 2023-07-05 at 3 22 17 PM" src="https://github.com/Shrsht/Argentina_Debt_Sustainability/assets/102553723/4bd411f2-c129-451e-b71b-1133da7b113c">
+
+Given these projections, I assume a higher possibility of Horacio Larreta being elected President in October 2023. 
+
+### Horacio Larreta's Policy Changes:
+
+Based on his April 2023 comments att the Llao Llao Forum, Larreta's campaign and policy propositions can be summarized as follows:
+
+-  **Promotion of a new monetary and exchange model**:
+  *"We are going to rebuild the independence of the Central Bank to put monetary policy in order and have a reliable currency again”*
+
+- **Introduction of a freely-floating Exchange Rate**:
+  *"It (exchange conrols) will be gone as soon as possible. One dollar, clarity for all, transparency and predictability. But it would be hard for that to happen on day one”*
+   
+- **Lowering Public Spending to reduce the Fiscal deficit**:
+  *“We are going to put an end to the deficit, which is the mother of all battles. That implies lowering public spending"*
+  
+- **Labor Market and Structural Reforms**:
+  *“Stabilization, which is the great challenge to win back the confidence of Argentines and the world, the consolidation of structural reforms to improve productivity and a concrete development plan for strategic sectors”*
+
+
+**Sources:**
+[https://buenosairesherald.com/politics/national-politics/larreta-proposes-reforms-to-labor-and-monetary-policy-at-llao-llao]
+
+
+
+
+
